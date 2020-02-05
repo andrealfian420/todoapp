@@ -1,0 +1,20 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 600;
+}
+
+.card-header {
+	font-family: 'Roboto', sans-serif;
+}
+
+.checked {
+	text-decoration: line-through;
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #388E3C;
+}
+
+/* color of trash icon */
+.fa-trash-alt {
+	color: red;
+}
